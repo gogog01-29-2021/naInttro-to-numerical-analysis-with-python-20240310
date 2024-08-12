@@ -1,3 +1,5 @@
+Newton raphson..Bijective method for 's Solution
+
 # Codes for Numerical Analysis course
 
 You can run the notebooks in the browser [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cpraveen/na/HEAD)
